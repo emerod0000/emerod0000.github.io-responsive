@@ -74,9 +74,11 @@ display:none;
  .content{
  margin-bottom: 10px;
  }
+	
  .top-news{
  max-height: 500px;
  }
+	
  .ellipsis {
     white-space: nowrap;
     overflow: hidden;
@@ -87,16 +89,12 @@ p.block {
     width: 400px;
 } 
 
-.news__title,
-.snippet__title a,
-.header__title,
-.weather__next, 
- th
+.news__title, .snippet__title a, .header__title, .weather__next, th
 {
-  font-size:20px;
-  font-weight:bold;
-}
-
+	font-size:20px;
+	font-weight:bold;
+	}
+	
 .top-news__item{
 font-size:16px;
 }

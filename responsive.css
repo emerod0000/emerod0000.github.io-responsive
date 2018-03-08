@@ -64,10 +64,6 @@
 
 @media screen and (max-width: 400px) {
 
-th{	
-font-size:20px;
-}
-	
 .scores__location{
 display:none;
 }
@@ -97,7 +93,7 @@ p.block {
 .weather__next, 
  th
 {
-  font-size:px;
+  font-size:20px;
   font-weight:bold;
 }
 

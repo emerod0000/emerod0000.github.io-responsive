@@ -64,8 +64,8 @@
 
 @media screen and (max-width: 400px) {
 
-footer li{
-display:block;
+th{	
+font-size:20px;
 }
 	
 .scores__location{
@@ -104,7 +104,10 @@ p.block {
 .top-news__item{
 font-size:16px;
 }
-
+	
+footer li{
+display:block;
+}
 }
 @media screen and (min-width: 400px) and (max-width: 550px) {
 	

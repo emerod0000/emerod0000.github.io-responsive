@@ -89,10 +89,18 @@ p.block {
     width: 400px;
 } 
 
-.news__title, .snippet__title a, .header__title, .weather__next, th
+.news__title, 
+.snippet__title a, 
+.weather__next, th
 {
-	font-size:20px;
-	font-weight:bold;
+  font-size:20px;
+  font-weight:bold;
+	}
+	
+.header__title
+	{
+  font-size:18px;
+  font-weight:bold;
 	}
 	
 .top-news__item{
